@@ -3,6 +3,6 @@
 #possess powerful magic
 
 download.file("http://www.datacarpentry.org/semester-biology/data/houseelf-earlength-dna-data.csv",
-              "data/houseelf-earlength-dna-data.csv")
+              "data/houseelf_earlength_dna_data_1.csv")
 
-elf_data <- read.csv("data/houseelf-earlength-dna-data.csv", stringsAsFactors = FALSE)
+elf_data_1 <- read.csv("data/houseelf_earlength_dna_data_1.csv", stringsAsFactors = FALSE)
